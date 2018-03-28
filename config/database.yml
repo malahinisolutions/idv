@@ -1,11 +1,11 @@
 default: &default
   adapter: mysql2
-  username: 9bc590_verify
-  database: db_9bc590_verify
+  username: 9bc590_idv
+  database: db_9bc590_idv
   password: Password@abc123
   pool: 5
   timeout: 5000
-  host:  MYSQL5005.SmarterASP.NET
+  host:  MYSQL5018.site4now.net
   #socket: /opt/lampp/var/mysql/mysql.sock
   #port: 3306
 
